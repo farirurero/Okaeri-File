@@ -88,7 +88,7 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 - Thanks To [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
 - Thanks To [File-Sharing-Man](https://github.com//mrismanaziz/File-Sharing-Man)
-- Thanks To [Wahyu213]
+- Thanks To [Wahyu213](https://github.com/Wahyu213)
 
 
 [Okaeri-File](https://github.com/farirurero/Okaeri-File/) is Free Software: You can use, study share and improve it at your
