@@ -6,7 +6,7 @@
     "file",
     "okaeri"
   ],
-  "repository": "https://github.com/Wahyu213/Okaeri-File",
+  "repository": "https://github.com/farirurero/Okaeri-File",
   "logo": "https://telegra.ph/file/4841c48a092ebe7b87705.jpg",
   "env": {
     "TG_BOT_TOKEN": {
