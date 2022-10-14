@@ -57,7 +57,7 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 * `OWNER_ID` Masukan User ID Telegram untuk Owner BOT
 * `CHANNEL_ID` Masukan ID Channel Untuk [Channel Database] contoh:- -100xxxxxxxx
 * `ADMINS` Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]
-* `START_MESSAGE` Opsional: Pesan /start memulai awalan ke bot, Gunakan <a href='https://github.com/Wahyu213/Okaeri-File/blob/main/README.md#start_message'>format</a> 
+* `START_MESSAGE` Opsional: Pesan /start memulai awalan ke bot, Gunakan <a href='https://github.com/farirurero/Okaeri-File/blob/main/README.md#start_message'>format</a> 
 * parsemode HTML 
 * `FORCE_SUB_MESSAGE` Opsional: Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML
 * `FORCE_SUB_CHANNEL` Masukan ID dari Channel Untuk Wajib Subscribenya
@@ -88,7 +88,8 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 - Thanks To [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
 - Thanks To [File-Sharing-Man](https://github.com//mrismanaziz/File-Sharing-Man)
+- Thanks To [Wahyu213]
 
 
-[Okaeri-File](https://github.com/Wahyu213/Okaeri-File/) is Free Software: You can use, study share and improve it at your
+[Okaeri-File](https://github.com/farirurero/Okaeri-File/) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
